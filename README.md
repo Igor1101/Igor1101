@@ -1,4 +1,4 @@
-### Hi there 👋
+#### Hi there 👋
 
 <!--
 **Igor1101/Igor1101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,5 +16,3 @@ Here are some ideas to get you started:
 -->
 
 I am an Embedded C software developer. The smaller is embedded system, the more I want to program it.
-
-This is my main repository for open-source projects.
