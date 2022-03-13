@@ -16,3 +16,5 @@ Here are some ideas to get you started:
 -->
 
 I am an Embedded C software developer. The smaller is embedded system, the more I want to program it.
+If you like what I am creating or use what I am creating you could help with your pull requests or money:
+5354 3210 5139 2000
